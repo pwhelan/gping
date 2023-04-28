@@ -1,4 +1,4 @@
-module pwhelan.lan/gping
+module github.com/pwhelan/gping
 
 go 1.19
 
