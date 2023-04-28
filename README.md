@@ -4,6 +4,15 @@ This is an unimaginative golang command-line terminal user interface
 application that allows you to continuously ping multiple hosts.
 It's really neat!
 
+# Quick Docker Usage
+
+If you want to spin up a container quickly on docker just use the 
+`pwhelan/gping:latest` container:
+
+```bash
+docker run --rm -ti pwhelan/gping:latest
+```
+
 # Installation
 
 To install the application, simply clone the repository to your local machine
